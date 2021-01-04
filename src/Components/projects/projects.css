@@ -1,0 +1,26 @@
+ .card-deck {
+     margin: 0 -15px;
+     display: block;
+     width: 60%;
+ }
+
+ .card-title {
+     color: blue;
+ }
+
+ .pr {
+     color: blue;
+ }
+
+ small {
+     font-size: 0.9em !important;
+ }
+
+ .card-text {
+     margin-bottom: 1em;
+ }
+
+
+ @media (min-width: 576px) and (max-width: 767.98px) {
+     .card-deck .card {}
+ }
